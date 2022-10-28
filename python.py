@@ -7,4 +7,4 @@ if llama=="llama alta":
 elif llama=="llama baja":
   print("romper la cascara")
   print("esperar ocho minutos de coccion")
-  print("sacarlo del sarten y servirlo")
+  print("sacarlo")
