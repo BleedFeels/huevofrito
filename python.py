@@ -5,6 +5,6 @@ if llama=="llama alta":
   print("esperar cinco minutos de coccion")
   print("sacarlo del sarten y servirlo")
 elif llama=="llama baja":
-  print("romper la cascara y echar el huevo al sarten")
+  print("romper la cascara")
   print("esperar ocho minutos de coccion")
   print("sacarlo del sarten y servirlo")
